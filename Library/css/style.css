@@ -978,7 +978,7 @@ textarea#message{
 ============================ */
 footer {
 	padding:50px;
-	background:#65AAF0;
+	background:#000;
 }
 
 footer p {
@@ -990,7 +990,7 @@ footer h4 {
 	text-transform:uppercase;
 	text-shadow:none;
 	font-weight:550;
-	color:#272727;
+	color:#fff;
 }
 
 footer .btn-gamp a {
